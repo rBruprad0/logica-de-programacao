@@ -9,7 +9,6 @@ programa {
       escreva("\nAprovado")}
        senao {
       escreva("\nReprovado")
-   }
- }    
-
+      }
+   }    
 }

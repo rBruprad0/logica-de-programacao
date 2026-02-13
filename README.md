@@ -28,7 +28,7 @@
 
 *Portugol (Portugol Studio Web)
 
-#Sobre mim
+#sobre mim
 
 ##Sou biomédica por formação e estudante da área de tecnologia e estou iniciando minha jornada em programação.
 
